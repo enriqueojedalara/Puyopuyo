@@ -1,3 +1,11 @@
+/**
+    2014/06/29
+    Board.h
+    Purpose: 
+		
+    @author Enrique Ojeda Lara <enriqueojedalara@gmail.com>
+    @version 0.1 
+*/
 #include "SDL.h" 
 #include "SDL_TTF.h"
 #include "Block.h"

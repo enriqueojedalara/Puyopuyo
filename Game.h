@@ -1,3 +1,11 @@
+/**
+    2014/06/29
+    Game.h
+    Purpose: 
+		
+    @author Enrique Ojeda Lara <enriqueojedalara@gmail.com>
+    @version 0.1 
+*/
 #include "Board.h" 
 
 const int COLS = 12;

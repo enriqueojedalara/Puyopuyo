@@ -1,3 +1,11 @@
+/**
+    2014/06/29
+    Game.cpp
+    Purpose: 
+		
+    @author Enrique Ojeda Lara <enriqueojedalara@gmail.com>
+    @version 0.1 
+*/
 #include "Game.h"
 #include <iostream>
 using namespace std;

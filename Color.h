@@ -1,3 +1,12 @@
+/**
+    2014/06/29
+    Color.h
+    Purpose: Generate random colors used in the game, the colors have to be defined in HEX
+		
+    @author Enrique Ojeda Lara <enriqueojedalara@gmail.com>
+    @version 0.1 
+*/
+
 #ifndef COLOR_H_
 #define COLOR_H_
 
